@@ -3,3 +3,5 @@ pydantic==2.13.4
 SQLAlchemy==2.0.52
 fastapi[standard]==0.141.1
 python-decouple==3.8
+databases==0.9.0
+sqlalchemy_utils==0.42.1
