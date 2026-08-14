@@ -1,0 +1,5 @@
+alembic==1.19.1
+pydantic==2.13.4
+SQLAlchemy==2.0.52
+fastapi[standard]==0.141.1
+python-decouple==3.8
